@@ -21,9 +21,9 @@
         <platform>all</platform>
         <license>MIT</license>
         <forum>https://botallen.com/discord</forum>
-        <website>https://riyazkhan1432021.github.io/plugin</website>
+        <website>https://riyazkhan1432021.github.io/spiderman.github.io</website>
         <email>kodi@botallen.com</email>
-        <source>https://riyazkhan1432021.github.io/plugin/plugin.video.jiotv</source>
+        <source>https://github.com/riyazkhan1432021/spiderman</source>
         <news>
             [- 2.3.9 -]
             [added] Revamped settings.xml and added strings.po
