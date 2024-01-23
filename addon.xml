@@ -7,7 +7,7 @@
         <import addon="inputstream.adaptive" minversion="2.6.6" />
         <import addon="script.module.m3u8" version="0.5.4" />
         <import addon="script.module.requests" version="2.27.1" />
-        <import addon="repository.tobalan" version="2.0.1" />
+        <import addon="repository.spiderman" version="2.0.1" />
         <!-- <import addon="script.module.web-pdb" /> -->
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
@@ -21,9 +21,9 @@
         <platform>all</platform>
         <license>MIT</license>
         <forum>https://botallen.com/discord</forum>
-        <website>https://tobalan.github.io</website>
+        <website>https://riyazkhan1432021.github.io/plugin</website>
         <email>kodi@botallen.com</email>
-        <source>https://github.com/tobalan/plugin.video.jiotv</source>
+        <source>https://github.com/riyazkhan1432021/plugin</source>
         <news>
             [- 2.3.9 -]
             [added] Revamped settings.xml and added strings.po
