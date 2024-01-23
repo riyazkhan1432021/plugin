@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.tobalan" name="TobAlan Repository" version="2.0.1" provider-name="tobalan">
-    <extension point="xbmc.addon.repository" name="TobAlan Repository">
+<addon id="repository.tobalan" name="Spiderman Repository" version="2.0.1" provider-name="spiderman">
+    <extension point="xbmc.addon.repository" name="Spiderman Repository">
         <dir minversion="19.0">
             <info compressed="false">https://riyazkhan1432021.github.io/plugin/addons.xml</info>
             <checksum>https://riyazkhan1432021.github.io/plugin/addons.xml.md5</checksum>
