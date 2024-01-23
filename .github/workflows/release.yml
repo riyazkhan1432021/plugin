@@ -19,7 +19,7 @@ jobs:
           releases-only: true # We know that all relevant tags have a GitHub release for them.
         id: octokit # The step ID to refer to later.
 
-      - run: echo "plugin.video.jiotv is at version ${{ steps.octokit.outputs.tag }}"
+      - run: echo "plugin is at version ${{ steps.octokit.outputs.tag }}"
       - uses: actions/checkout@v3
         with:
           repository: riyazkhan1432021/plugin
