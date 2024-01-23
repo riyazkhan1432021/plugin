@@ -15,14 +15,14 @@ jobs:
     steps:
       - uses: oprypin/find-latest-tag@v1
         with:
-          repository: riyazkhan1432021/plugin # The repository to scan.
+          repository: spiderman/plugin # The repository to scan.
           releases-only: true # We know that all relevant tags have a GitHub release for them.
         id: octokit # The step ID to refer to later.
 
       - run: echo "plugin is at version ${{ steps.octokit.outputs.tag }}"
       - uses: actions/checkout@v3
         with:
-          repository: riyazkhan1432021/plugin
+          repository: spiderman/plugin
           path: plugin
           ref: ${{ steps.octokit.outputs.tag }}
 
