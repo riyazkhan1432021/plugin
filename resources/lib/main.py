@@ -714,7 +714,7 @@ def epg_setup(plugin):
 # PVR Setup `route` to access from Settings
 @Script.register
 def pvrsetup(plugin):
-    executebuiltin("RunPlugin(plugin://plugin.video.jiotv/resources/lib/main/m3ugen/)")
+    executebuiltin("RunPlugin(plugin://plugin/resources/lib/main/m3ugen/)")
     IDdoADDON = "pvr.iptvsimple"
 
     def set_setting(id, value):
