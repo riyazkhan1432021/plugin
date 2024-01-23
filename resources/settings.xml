@@ -25,7 +25,7 @@
 				</setting>
 				<setting help="" id="cleanup" label="33002" type="action">
 					<level>0</level>
-					<data>RunPlugin(plugin://plugin.video.jiotv/resources/lib/main/cleanup/)</data>
+					<data>RunPlugin(plugin://spiderman/resources/lib/main/cleanup/)</data>
 					<constraints>
 						<allowempty>true</allowempty>
 					</constraints>
@@ -35,7 +35,7 @@
 				</setting>
 				<setting help="" id="pvrsetup" label="33003" type="action">
 					<level>0</level>
-					<data>RunPlugin(plugin://plugin.video.jiotv/resources/lib/main/pvrsetup/)</data>
+					<data>RunPlugin(plugin://spiderman/resources/lib/main/pvrsetup/)</data>
 					<constraints>
 						<allowempty>true</allowempty>
 					</constraints>
@@ -85,7 +85,7 @@
 				</setting>
 				<setting help="" id="applyAllSettings1" label="33009" type="action">
 					<level>0</level>
-					<data>RunPlugin(plugin://plugin.video.jiotv/resources/lib/main/applyall/)</data>
+					<data>RunPlugin(plugin://spiderman/resources/lib/main/applyall/)</data>
 					<constraints>
 						<allowempty>true</allowempty>
 					</constraints>
@@ -164,7 +164,7 @@
 				</setting>
 				<setting help="" id="applyAllSettings3" label="33024" type="action">
 					<level>0</level>
-					<data>RunPlugin(plugin://plugin.video.jiotv/resources/lib/main/applyall/)</data>
+					<data>RunPlugin(plugin://spiderman/resources/lib/main/applyall/)</data>
 					<constraints>
 						<allowempty>true</allowempty>
 					</constraints>
@@ -258,7 +258,7 @@
 				</setting>
 				<setting help="" id="applyAllSettings2" label="33042" type="action">
 					<level>0</level>
-					<data>RunPlugin(plugin://plugin.video.jiotv/resources/lib/main/applyall/)</data>
+					<data>RunPlugin(plugin://spiderman/resources/lib/main/applyall/)</data>
 					<constraints>
 						<allowempty>true</allowempty>
 					</constraints>
@@ -272,7 +272,7 @@
 			<group id="1">
 				<setting help="" id="login" label="33044" type="action">
 					<level>0</level>
-					<data>RunPlugin(plugin://plugin.video.jiotv/resources/lib/main/login/)</data>
+					<data>RunPlugin(plugin://spiderman/resources/lib/main/login/)</data>
 					<constraints>
 						<allowempty>true</allowempty>
 					</constraints>
@@ -282,7 +282,7 @@
 				</setting>
 				<setting help="" id="logout" label="33045" type="action">
 					<level>0</level>
-					<data>RunPlugin(plugin://plugin.video.jiotv/resources/lib/main/logout/)</data>
+					<data>RunPlugin(plugin://spiderman/resources/lib/main/logout/)</data>
 					<constraints>
 						<allowempty>true</allowempty>
 					</constraints>
@@ -292,7 +292,7 @@
 				</setting>
 				<setting help="" id="setMobile" label="33046" type="action">
 					<level>0</level>
-					<data>RunPlugin(plugin://plugin.video.jiotv/resources/lib/main/setmobile/)</data>
+					<data>RunPlugin(plugin://spiderman/resources/lib/main/setmobile/)</data>
 					<constraints>
 						<allowempty>true</allowempty>
 					</constraints>
@@ -312,7 +312,7 @@
 				</setting>
 				<setting help="" id="applyAllSettings0" label="33009" type="action">
 					<level>0</level>
-					<data>RunPlugin(plugin://plugin.video.jiotv/resources/lib/main/applyall/)</data>
+					<data>RunPlugin(plugin://spiderman/resources/lib/main/applyall/)</data>
 					<constraints>
 						<allowempty>true</allowempty>
 					</constraints>
