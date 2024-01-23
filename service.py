@@ -29,7 +29,7 @@ t.start()
 
 if Settings.get_boolean("m3ugen"):
     executebuiltin(
-        "RunPlugin(plugin://plugin.video.jiotv/resources/lib/main/m3ugen/?notify=no)"
+        "RunPlugin(plugin://plugin/resources/lib/main/m3ugen/?notify=no)"
     )
 
 monitor = Monitor()
